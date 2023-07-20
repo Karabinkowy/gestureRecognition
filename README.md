@@ -1,4 +1,7 @@
 # gestureRecognition
+Based on: kinivi/hand-gesture-recognition-mediapipe, https://github.com/kinivi/hand-gesture-recognition-mediapipe
+
+
 Program that recognizes a gesture shown by a hand or two hands.
 Gestures using one hand: 
 - thumbs up
